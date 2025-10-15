@@ -11,4 +11,3 @@ committing secrets to source control.
 
 For local reference there's a `.env` file in the repo with matching variable
 names. The `.env` file maps to the Script Property keys, for example `WEBHOOK_GENERAL`.
-# discord-bot
