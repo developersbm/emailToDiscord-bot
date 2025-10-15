@@ -1,0 +1,31 @@
+.env
+.clasp.json
+node_modules/
+dist/
+build/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.local
+.env.*.local
+
+# Google Apps Script / clasp artifacts
+.gas/
+*.gs
+*.html
+
+# Mac files
+.DS_Store
+
+# Editor directories and files
+*.sublime-workspace
+.history/
+
+# System files
+Icon?
+__pycache__/
